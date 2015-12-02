@@ -1,0 +1,9 @@
+article, aside, details, figcaption, figure, footer,header,
+hgroup, menu, nav, section { display: block; }
+h1 {font-size:16px}
+#wrapper {}
+/*#form {}
+#form section {margin: 10px 5px}
+#form textarea {width:350px;height:100px}*/
+blockquote {color:red;wont-weight:bolder}
+.clear {clear:both}
